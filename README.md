@@ -7,6 +7,7 @@
 ## Skills
   
   By the end of this project, I will have gained a better understanding of the following concepts:
+  
      * Creating ordered/unordered lists
      * Connecting multiple static pages together
      * Intermediate usage of HTML best practices 
